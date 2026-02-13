@@ -112,8 +112,8 @@
   </div>
 
   <div class="card hidden" id="question">
-    <h1>Hi my love Shaquila ❤️</h1>
-    <p>Every day with you feels like the best part of my life.</p>
+    <h1>Hello my baby Shaq ❤️</h1>
+    <p>We may be distances apart but my love for you grows everyday. You are my better part.</p>
     <p><strong>Will you be my Valentine?</strong></p>
 
     <button class="yes" onclick="sayYes()">YES 💖</button>
@@ -121,8 +121,8 @@
   </div>
 
   <div class="card hidden" id="yesMessage">
-    <h1>Yaaay Shaquila!!! 💕</h1>
-    <p>You just made me the happiest person alive.</p>
+    <h1>Yaaay Stnky!!! 💕</h1>
+    <p>I am so happy that you choose me everyday.</p>
     <p>I love you so much. Happy Valentine's Day ❤️</p>
   </div>
 
