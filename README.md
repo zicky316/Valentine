@@ -121,9 +121,9 @@
   </div>
 
   <div class="card hidden" id="yesMessage">
-    <h1>Yaaay Stinky Stinky!!! 💕</h1>
+    <h1>Yaaay Shaquila!!! 💕</h1>
     <p>You just made me the happiest person alive.</p>
-    <p>I love you so much. Happy Valentine's Day my love ❤️</p>
+    <p>I love you so much. Happy Valentine's Day ❤️</p>
   </div>
 
   <script>
@@ -173,4 +173,3 @@
   </script>
 </body>
 </html>
-
